@@ -197,10 +197,6 @@ flutter run
 
 - ✅ Android
 - ✅ iOS
-- ✅ Web (with limitations)
-- ✅ macOS
-- ✅ Linux
-- ✅ Windows
 
 ## Documentation
 
