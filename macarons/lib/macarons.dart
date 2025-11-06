@@ -1,6 +1,7 @@
 library macarons;
 
 export 'lazyimage/LazyImage.dart';
+export 'lazyimage/LazyLoader.dart';
 
 import 'macarons_platform_interface.dart';
 
