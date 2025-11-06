@@ -25,7 +25,7 @@ algolia/
 
 #### LazyImage
 
-A lightweight Flutter library for lazy-loading images with efficient caching and cancellation support. Built without third-party dependencies, using only Flutter's built-in capabilities.
+This is a lightweight Flutter library for lazy-loading images with efficient caching and cancellation support. Built without third-party dependencies, using only Flutter's built-in capabilities.
 
 **Location**: `macarons/lib/lazyimage/`
 
